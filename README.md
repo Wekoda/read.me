@@ -1,6 +1,6 @@
 ## Olá! eu sou Paulo Machado👾
 
-. 💻 Atulmente aprendendo: Python e django
+. 💻 Atulmente aprendendo: Python e Flask
 . 📚 Futuro Dev Back-end
 . 🇧🇷 🇵🇹 Brasileiro em Portugal!
 . 🇺🇸 Inglês avançado
